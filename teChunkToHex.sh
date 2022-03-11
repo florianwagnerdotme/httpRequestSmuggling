@@ -4,6 +4,7 @@
 #
 #############################################
 #Script to calc the size of a payload in HEX#
+#License GNU General Public License v3.0    #
 #############################################
 
 if [[ -z "$1" ]]; then
